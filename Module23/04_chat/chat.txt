@@ -1,0 +1,5 @@
+vlad: fsdfsdfsd
+lol: dasdasdas
+kek: privet
+cd d:/skillbox/python_basic/Module23/04_chat: qq
+cd d:/skillbox/python_basic/Module23/04_chat: Кто поможет решить задачу?
